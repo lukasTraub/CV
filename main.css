@@ -1,0 +1,45 @@
+body{
+  margin: 0px;
+}
+
+img {
+  border: 3px solid #555;
+  margin-top: 10px;
+}
+.siteBar{
+  background-color: #354259;
+  width: 300px;
+  text-align: center;
+  color: #ECE5C7;
+  padding: 20px;
+}
+
+.mainBar{
+  background-color: #CDC2AE;
+  vertical-align: top;
+  padding: 20px;
+  color: #354259; 
+}
+
+table{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  border: 0px;
+  border-spacing: 0px;
+}
+
+img{
+  display:block;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+td {
+  padding: 5px;
+}
+
+h1 {
+  margin-top: 0px;
+}
